@@ -16,7 +16,7 @@
 title: Interact Art of Sweden
 email: contact@interactart.se
 description: >-
-  Explores human interactions through art projects
+  Explores human interaction through art projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://interactart.se" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
